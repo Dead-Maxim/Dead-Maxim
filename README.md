@@ -8,7 +8,6 @@
   </a>
 <div/>
 <hr width="100%" color="blue" size="8">
-Hi there 👋
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhlbHU1OXMwanBkenV4a3p3M2theGQ2YW5pdmF1MGh1a3hzYmR1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="400" height="200"/>
 </div>
