@@ -13,7 +13,6 @@
 </div>
 <hr width="100%" color="blue" size="8">
 <div align="left">
-:man_technologist: About Me :
 <div/>
 :hammer_and_wrench: Languages and Tools :
 <div>
